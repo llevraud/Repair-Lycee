@@ -41,10 +41,11 @@
 
 ## 9. Partenaires 
 - **ADEME** : Mme Eva MAMELLE Ingénieur territorial Economie Circulaire [eva.mamelle@ademe.fr](eva.mamelle@ademe.fr)
-- **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil]([https://www.reseau-renaitre.com/page/1502390-accueil)
+- **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil) adhérent depuis le 30/03/2025
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
 - **VEOLIA** : Mécénat en attente
 
 ## 10. Communications 
-- **Repair-Lycée** : Site internet hébergé avec l'ERP Odoo [https://repair-lycee.xyz](https://repair-lycee.xyz)
+- **Repair-Lycée** : Nom de domaine Site internet hébergé avec l'ERP Odoo [https://repair-lycee.xyz](https://repair-lycee.xyz)
+- **Google Maps** : Point Google Business [https://maps.app.goo.gl/arsYxreTmP2qdqVe9](https://maps.app.goo.gl/arsYxreTmP2qdqVe9)
