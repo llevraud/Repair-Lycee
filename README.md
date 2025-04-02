@@ -14,7 +14,7 @@
 
 ## 4. Plan de Mise en Œuvre
 - **Équipe** : Enseignants engagés dans la réduction des déchets et passionnés, éco-délégués
-- **Matériel nécessaire** : Local  d'une superficie  de 40 m² équipé de 5 paillasses, étagères pour le stockage temporel, armoire de rangement, outils de réparation, évier
+- **Matériel nécessaire** : Local  d'une superficie  de 40 m² équipé de 5 paillasses, étagères pour le stockage temporel, armoires de rangement, outils de réparation, évier
 - **Partenariats** : Collaboration avec des associations locales, entreprises de réparation, mécénes.
 
 ## 5. Budget Prévisionnel
