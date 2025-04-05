@@ -1,9 +1,9 @@
 # Dossier de présentation du Repair Lycée !
 
 ## 1. Introduction
-- **Présentation du projet** : Création d'un atelier de réparation de petit électroménager et d'appareil didactisé au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise à travail l'ERP Odoo mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonné l'établissement dans le domaine du Développement Durable
+- **Présentation du projet** : Création d'un atelier de réparation de petit électroménager et d'appareil didactisé au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace à l'ERP Odoo mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonné l'établissement dans le domaine du Développement Durable
   
-- **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire, promouvoir les filière technologiquew et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
+- **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
 
 ## 2. Description du Projet
 - **Concept** : Un espace dédié à la réparation d'objets du quotidien, où les élèves peuvent apprendre à réparer des appareils électroménagers sous la supervision d'enseignants impliqués.
