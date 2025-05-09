@@ -41,7 +41,7 @@
 
 ## 9. Partenaires 
 - **ADEME** : Mme Eva MAMELLE Ingénieur territorial Economie Circulaire [eva.mamelle@ademe.fr](eva.mamelle@ademe.fr)
-- **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil) adhérent depuis le 30/03/2025
+- **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil)  mise en relation avec le vivier du recyclage du mobilier
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **BEN** : Bordeaux Ecole Numérique FabLab de Marc ancien enseignant de STI2D à Pauillac [https://www.bordeaux-ecole-numerique.fr/](https://www.bordeaux-ecole-numerique.fr/)
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
