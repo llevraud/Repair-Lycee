@@ -31,6 +31,10 @@
 - **Importance du projet** : Contribuer à une société plus durable et responsable.
 - **Appel à soutien** : Demande de soutien financier et logistique de la part du Conseil d'administration du Lycée.
 
+## 8. Equipe
+- **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
+- **Enseignants de Bac Pro MELEC** :
+
 ## 8. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
 - **Photos** : Images de l'atelier en fonctionnement.
