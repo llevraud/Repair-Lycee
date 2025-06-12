@@ -35,7 +35,7 @@
 - **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
 - **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre, LE BOZEC  Loic
 
-## 8. Annexes
+## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
 - **Photos** : Images de l'atelier en fonctionnement.
 - **Articles de presse** : Mentions du Repair Lab dans les médias locaux.
@@ -43,7 +43,7 @@
 - ODD4 - [https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des)
 - ODD12 -[https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables)
 
-## 9. Partenaires 
+## 10. Partenaires 
 - **ADEME** : Mme Eva MAMELLE Ingénieur territorial Economie Circulaire [eva.mamelle@ademe.fr](eva.mamelle@ademe.fr)
 - **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil)  mise en relation avec le vivier du recyclage du mobilier
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
