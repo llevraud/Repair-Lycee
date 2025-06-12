@@ -19,8 +19,8 @@
 
 ## 5. Budget Prévisionnel
 - **Coûts initiaux** : Aménagement de l'espace, achat d'outils et de matériel.
-- **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants 
-- **Sources de financement** : Subventions de la région, partenariats à développer avec Véolia, Paprec, Suez...
+- **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants : décharge ? possible par le biais du projet innovant CRN?
+- **Sources de financement** : Subventions de la région, partenariats à développer avec Véolia, Paprec, Suez ou notre prestataire de collecte de déchets:  AZURA [https://pro.azura-sas.fr/](https://pro.azura-sas.fr/)
 
 ## 6. Impact Attendu
 - **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec un fourniture et enlèvement chiffré à 0 euros !
