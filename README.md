@@ -48,10 +48,10 @@
 - **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil)  mise en relation avec le vivier du recyclage du mobilier
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **BEN** : Bordeaux Ecole Numérique FabLab de Marc ancien enseignant de STI2D à Pauillac [https://www.bordeaux-ecole-numerique.fr/](https://www.bordeaux-ecole-numerique.fr/)
-- **RECTORAT** : Emmanuelle Caley -Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort 
+- **RECTORAT** : Emmanuelle Caley -Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort (contacté le 15/05, en attente de retour sur l'intégration possible de notre projet ambitieux face aux règles actuelles)
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
 - **VEOLIA** : Mécénat en attente
 
-## 10. Communications 
+## 11. Communications 
 - **Repair-Lycée** : Nom de domaine Site internet hébergé avec l'ERP Odoo [https://repair-lycee.xyz](https://repair-lycee.xyz)
 - **Google Maps** : Point Google Business [https://maps.app.goo.gl/arsYxreTmP2qdqVe9](https://maps.app.goo.gl/arsYxreTmP2qdqVe9)
