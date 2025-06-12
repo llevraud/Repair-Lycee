@@ -23,9 +23,9 @@
 - **Sources de financement** : Subventions de la région, partenariats à développer avec Véolia, Paprec, Suez...
 
 ## 6. Impact Attendu
-- **Environnemental** : Réduction des déchets électroniques.
-- **Éducatif** : Acquisition de compétences techniques pour les élèves.
-- **Social** : Création d'un espace de partage et d'entraide au sein du lycée.
+- **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec un fourniture et enlèvement chiffré à 0 euros !
+- **Éducatif** : Acquisition de compétences techniques pour les élèves, récompense neuro-cognitive, satisfaction de l'avoir fait par lui même!
+- **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, le personnels et plus...
 
 ## 7. Conclusion
 - **Importance du projet** : Contribuer à une société plus durable et responsable.
@@ -33,7 +33,7 @@
 
 ## 8. Equipe
 - **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
-- **Enseignants de Bac Pro MELEC** :
+- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre, LE BOZEC  Loic
 
 ## 8. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
@@ -48,6 +48,7 @@
 - **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil)  mise en relation avec le vivier du recyclage du mobilier
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **BEN** : Bordeaux Ecole Numérique FabLab de Marc ancien enseignant de STI2D à Pauillac [https://www.bordeaux-ecole-numerique.fr/](https://www.bordeaux-ecole-numerique.fr/)
+- **RECTORAT** : Emmanuelle Caley -Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort 
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
 - **VEOLIA** : Mécénat en attente
 
