@@ -1,7 +1,7 @@
 # Dossier de présentation du Repair Lycée !
 
 ## 1. Introduction
-- **Présentation du projet** : Création d'un atelier de réparation de petit électroménager et d'appareil didactisé au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace à l'ERP Odoo mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonné l'établissement dans le domaine du Développement Durable
+- **Présentation du projet** : Création d'un atelier de réparation de petit matériels électriques et d'appareils didactiséss au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonner l'établissement et la filière STI2D en autre dans le domaine du Développement Durable.
   
 - **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
 
@@ -33,7 +33,7 @@
 
 ## 8. Equipe
 - **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
-- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre, LE BOZEC  Loic
+- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre Jean, LE BOZEC  Loic, MILLET Benjamin
 
 ## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
