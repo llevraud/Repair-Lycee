@@ -19,21 +19,21 @@
 
 ## 5. Budget Prévisionnel
 - **Coûts initiaux** : Aménagement de l'espace, achat d'outils et de matériel.
-- **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants : décharge ? possible par le biais du projet innovant CRN?
-- **Sources de financement** : Subventions de la région, partenariats à développer avec Véolia, Paprec, Suez ou notre prestataire de collecte de déchets:  AZURA [https://pro.azura-sas.fr/](https://pro.azura-sas.fr/)
+- **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants : décharge ? possible par le biais du projet innovant CNR ?
+- **Sources de financement** : Eventuelle subvention de la région, dossier de CNR, partenariats à développer avec Véolia, Paprec, Suez ou notre prestataire de collecte de déchets:  AZURA [https://pro.azura-sas.fr/](https://pro.azura-sas.fr/)
 
 ## 6. Impact Attendu
 - **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec un fourniture et enlèvement chiffré à 0 euros !
 - **Éducatif** : Acquisition de compétences techniques pour les élèves, récompense neuro-cognitive, satisfaction de l'avoir fait par lui même!
-- **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, le personnels et plus...
+- **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, le personnels et plus... Renforcement de la cohésion des équipes pédagogiques.
 
 ## 7. Conclusion
 - **Importance du projet** : Contribuer à une société plus durable et responsable.
-- **Appel à soutien** : Demande de soutien financier et logistique de la part du Conseil d'administration du Lycée.
+- **Appel à soutien** : Demande de soutien financier et logistique de la part du Conseil d'Administration du Lycée.
 
 ## 8. Equipe
 - **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
-- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre Jean, LE BOZEC  Loic, MILLET Benjamin
+- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre Jean, LE BOZEC Loic, MILLET Benjamin
 
 ## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
@@ -48,7 +48,7 @@
 - **RENAITRE** : Mme Cecile SOUCHARD [https://www.reseau-renaitre.com/page/1502390-accueil](https://www.reseau-renaitre.com/page/1502390-accueil)  mise en relation avec le vivier du recyclage du mobilier
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **BEN** : Bordeaux Ecole Numérique FabLab de Marc ancien enseignant de STI2D à Pauillac [https://www.bordeaux-ecole-numerique.fr/](https://www.bordeaux-ecole-numerique.fr/)
-- **RECTORAT** : Emmanuelle Caley -Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort (contacté le 15/05, en attente de retour sur l'intégration possible de notre projet ambitieux face aux règles actuelles)
+- **RECTORAT** : Emmanuelle Caley - Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort (contacté le 15/05, en attente de retour sur l'intégration possible de notre projet ambitieux face aux règles actuelles)
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
 - **VEOLIA** : Mécénat en attente
 
