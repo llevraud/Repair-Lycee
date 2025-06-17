@@ -3,7 +3,7 @@
 ## 1. Introduction
 - **Présentation du projet** : Création d'un atelier de réparation de petit matériels électriques et d'appareils didactiséss au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonner l'établissement et la filière STI2D en autre dans le domaine du Développement Durable.
   
-- **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
+- **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire et la Low Tech, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
 
 ## 2. Description du Projet
 - **Concept** : Un espace dédié à la réparation d'objets du quotidien, où les élèves peuvent apprendre à réparer des appareils électroménagers sous la supervision d'enseignants impliqués.
@@ -49,7 +49,8 @@
 - **RENEE** : Mme Sonia KREMER GENIN . [https://hellorenee.fr/](https://hellorenee.fr/)
 - **BEN** : Bordeaux Ecole Numérique FabLab de Marc ancien enseignant de STI2D à Pauillac [https://www.bordeaux-ecole-numerique.fr/](https://www.bordeaux-ecole-numerique.fr/)
 - **RECTORAT** : Emmanuelle Caley - Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort (contacté le 15/05, en attente de retour sur l'intégration possible de notre projet ambitieux face aux règles actuelles)
-- **ECOLOGIC** : Mme Karine BERRADI responsable grand compte 
+- **ECOLOGIC** : Mme Karine BERRADI responsable grand compte
+- **METROPOLE DE BORDEAUX** Jean Bastiste THONNY également élu à la mairie de Bordeaux [jeanbaptiste.thony@mairie-bordeaux.fr](jeanbaptiste.thony@mairie-bordeaux.fr)
 - **VEOLIA** : Mécénat en attente
 
 ## 11. Communications 
