@@ -33,7 +33,7 @@
 
 ## 8. Equipe
 - **Enseignants de STI2D et SI** : BERTHE Henry, LAFON Fabien, LEVRAUD Laurent
-- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre Jean, LE BOZEC Loic, MILLET Benjamin
+- **Enseignants de Bac Pro MELEC** : BOUILHAC Pierre Jean, LE BOZEC Mikael, MILLET Benjamin
 
 ## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
