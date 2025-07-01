@@ -1,7 +1,7 @@
 # Dossier de présentation du Repair Lycée !
 
 ## 1. Introduction
-- **Présentation du projet** : Création d'un atelier de réparation de petit matériels électriques et d'appareils didactiséss au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour gérer les flux entrants et sortants. Et surtout un projet innovant qui permettra de faire rayonner l'établissement et la filière STI2D en autre dans le domaine du Développement Durable.
+- **Présentation du projet** : Création d'un atelier de réparation de petit matériels électriques et d'appareils didactiséss au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour quantifier et suivre les flux entrants et sortants, capitaliser le savoir-faire et . Et surtout un projet innovant qui permettra de faire rayonner l'établissement et la filière STI2D en autre dans le domaine du Développement Durable.
   
 - **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire et la Low Tech, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
 
@@ -10,7 +10,7 @@
 - **Activités proposées** : Ateliers de réparation, sessions d'apprentissage, événements de sensibilisation à l'éco-responsabilité et l'éco-conception.
 
 ## 3. Inspiration et Modèle
-- **Repair Lab du Lycée Rascol ** : Un exemple réussi d'un espace de réparation au sein d'un lycée à Albi, où les objets du quotidien sont réparés et remis en état. Ce projet a été réalisé grâce à une équipe engagée et un projet CNR.
+- **Repair Lab du Lycée Rascol ** : Un exemple réussi d'un espace de réparation au sein d'un lycée à Albi, où les objets du quotidien sont réparés et remis en état. Ce projet a été réalisé grâce à une équipe engagée. Lancer par la proviseure Mme Christelle KAUFFMANN. [https://repairlab.rascol.net/accueil](https://repairlab.rascol.net/accueil)
 
 ## 4. Plan de Mise en Œuvre
 - **Équipe** : Enseignants engagés dans la réduction des déchets et passionnés, éco-délégués
@@ -38,7 +38,7 @@
 ## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
 - **Photos** : Images de l'atelier en fonctionnement.
-- **Articles de presse** : Mentions du Repair Lab dans les médias locaux.
+- **Articles de presse** : Mentions du Repair Lab dans les médias locaux, Sud Ouest, TV7, 
 - **Objectifs du développement durable** :
 - ODD4 - [https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des)
 - ODD12 -[https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables)
@@ -51,7 +51,7 @@
 - **RECTORAT** : Emmanuelle Caley - Conseillère Académique Innovation Formation (ZAP Bordeaux Centre) -  Formatrice EAFC Académie de Bordeaux - Professeure de SES au Lycée Jean Monnet- Blanquefort (contacté le 15/05, en attente de retour sur l'intégration possible de notre projet ambitieux face aux règles actuelles)
 - **ECOLOGIC** : Mme Karine BERRADI responsable grand compte
 - **METROPOLE DE BORDEAUX** Jean Bastiste THONNY également élu à la mairie de Bordeaux [jeanbaptiste.thony@mairie-bordeaux.fr](jeanbaptiste.thony@mairie-bordeaux.fr)
-- **VEOLIA** : Mécénat en attente
+- **VEOLIA/PAPREC/AZURA** : Mécénat en attente
 
 ## 11. Communications 
 - **Repair-Lycée** : Nom de domaine Site internet hébergé avec l'ERP Odoo [https://repair-lycee.xyz](https://repair-lycee.xyz)
