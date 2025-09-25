@@ -13,10 +13,12 @@
 - **Repair Lab du Lycée Rascol ** : Un exemple réussi d'un espace de réparation au sein d'un lycée à Albi, où les objets du quotidien sont réparés et remis en état. Ce projet a été réalisé grâce à une équipe engagée. Lancer par la proviseure Mme Christelle KAUFFMANN. [https://repairlab.rascol.net/accueil](https://repairlab.rascol.net/accueil)
 
 ## 4. Plan de Mise en Œuvre
-- **Équipe** : Enseignants engagés dans la réduction des déchets et passionnés, éco-délégués
+- **Équipe** : Enseignants de 5 enseignants dans le suovi de l'ateleir et engagés dans la réduction des déchets et passionnés, éco-délégués
 - **Matériel nécessaire** : Local  d'une superficie  de 40 m² équipé de 5 paillasses, étagères pour le stockage temporel, armoires de rangement, outils de réparation, évier
 - **Partenariats** : Collaboration avec des associations locales, entreprises de réparation, mécénes.
-
+- **Lieu** : Une salle suivant la disponibilité, pour commencer, avec 3 armoires au minumun.
+- **Agenda** : Une coordianation est nécessaire pour définir 2 créneaux de 2h sur la semaines avec les collègues engagés
+- 
 ## 5. Budget Prévisionnel
 - **Coûts initiaux** : Aménagement de l'espace, achat d'outils et de matériel.
 - **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants : décharge ? possible par le biais du projet innovant CNR ?
