@@ -28,9 +28,10 @@
 - **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec un fourniture et enlèvement chiffré à 0 euros !
 - **Éducatif** : Acquisition de compétences techniques pour les élèves, récompense neuro-cognitive, satisfaction de l'avoir fait par lui même!
 - **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, le personnels et plus... Renforcement de la cohésion des équipes pédagogiques.
+- **Economique** : Réduction des frais de maintenance sur les systèmes didactisé des laboratoires SII (post-bac et pré-bac) et STS.
 
 ## 7. Conclusion
-- **Importance du projet** : Contribuer à une société plus durable et responsable.
+- **Importance du projet** : Contribuer à une société plus durable et responsable. Réaliser des économies d'échelles considérable !
 - **Appel à soutien** : Demande de soutien financier et logistique de la part du Conseil d'Administration du Lycée.
 
 ## 8. Equipe
