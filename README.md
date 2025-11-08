@@ -1,7 +1,7 @@
 # Dossier de présentation du Repair Lycée !
 
 ## 1. Introduction
-- **Présentation du projet** : Création d'un atelier de réparation de petit matériels électriques et d'appareils didactiséss au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour quantifier et suivre les flux entrants et sortants, capitaliser le savoir-faire et . Et surtout un projet innovant qui permettra de faire rayonner l'établissement et la filière STI2D en autre dans le domaine du Développement Durable.
+- **Présentation du projet** : Création d'un atelier de réparation de petits matériels électriques et d'appareils didactisés au Lycée Gustave Eiffel, basé sur le principe du Repair Café. C'est aussi la possibilité de gérer une micro-entreprise grace au ERP Odoo/Dolibarr mise en place pour quantifier et suivre les flux entrants et sortants, capitaliser le savoir-faire. Ce projet innovant permettra de faire rayonner l'établissement et la filière STI2D particulièrement dans le domaine du Développement Durable.
   
 - **Objectifs** : Réduire les déchets électroniques, promouvoir l'économie circulaire et la Low Tech, promouvoir les filière technologiques et industrielles et offrir une opportunité d'apprentissage pratique aux élèves et aux personnels de l'établissement.
 
@@ -10,28 +10,28 @@
 - **Activités proposées** : Ateliers de réparation, sessions d'apprentissage, événements de sensibilisation à l'éco-responsabilité et l'éco-conception.
 
 ## 3. Inspiration et Modèle
-- **Repair Lab du Lycée Rascol ** : Un exemple réussi d'un espace de réparation au sein d'un lycée à Albi, où les objets du quotidien sont réparés et remis en état. Ce projet a été réalisé grâce à une équipe engagée. Lancer par la proviseure Mme Christelle KAUFFMANN. [https://repairlab.rascol.net/accueil](https://repairlab.rascol.net/accueil)
+- **Repair Lab du Lycée Rascol ** : Un exemple réussi d'un espace de réparation au sein d'un lycée à Albi, où les objets du quotidien sont réparés et remis en état. Ce projet a été réalisé grâce à une équipe engagée. Lancé par la proviseure Mme Christelle KAUFFMANN. [https://repairlab.rascol.net/accueil](https://repairlab.rascol.net/accueil)
 
 ## 4. Plan de Mise en Œuvre
-- **Équipe** : Enseignants de 5 enseignants dans le suovi de l'ateleir et engagés dans la réduction des déchets et passionnés, éco-délégués
-- **Matériel nécessaire** : Local  d'une superficie  de 40 m² équipé de 5 paillasses, étagères pour le stockage temporel, armoires de rangement, outils de réparation, évier
-- **Partenariats** : Collaboration avec des associations locales, entreprises de réparation, mécénes.
-- **Lieu** : Une salle suivant la disponibilité, pour commencer, avec 3 armoires au minumun.
-- **Agenda** : Une coordianation est nécessaire pour définir 2 créneaux de 2h sur la semaines avec les collègues engagés
+- **Équipe** : Equipe de 5 enseignants dans le suivi de l'atelier, engagée dans la réduction des déchets.
+- **Matériel nécessaire** : Local  d'une superficie  de 40 m² équipé de 5 paillasses, étagères pour le stockage temporel, armoires de rangement, outils de réparation, évier.
+- **Partenariats** : Collaboration avec des associations locales, entreprises de réparation.
+- **Lieu** : Une salle suivant la disponibilité, pour commencer, équipée de paillasses, avec 3 armoires au minumun.
+- **Agenda** : Une coordination est nécessaire pour définir 2 créneaux de 2h minimum sur la semaine avec les collègues engagés.
 - 
 ## 5. Budget Prévisionnel
 - **Coûts initiaux** : Aménagement de l'espace, achat d'outils et de matériel.
 - **Coûts récurrents** : Maintenance, achat de pièces de rechange, réunération des enseignants : décharge ? possible par le biais du projet innovant CNR ?
-- **Sources de financement** : Eventuelle subvention de la région, dossier de CNR, partenariats à développer avec Véolia, Paprec, Suez ou notre prestataire de collecte de déchets:  AZURA [https://pro.azura-sas.fr/](https://pro.azura-sas.fr/)
+- **Sources de financement** : Eventuelle subvention de la région, dossier de CNR, notre prestataire de collecte de déchets:  AZURA [https://pro.azura-sas.fr/](https://pro.azura-sas.fr/)
 
 ## 6. Impact Attendu
-- **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec un fourniture et enlèvement chiffré à 0 euros !
+- **Environnemental** : Réduction des déchets électroniques. Collecteur des objets non réparables mis à disposition par l'éco-organisme Ecologique avec une fourniture et enlèvement chiffré à 0 euros !
 - **Éducatif** : Acquisition de compétences techniques pour les élèves, récompense neuro-cognitive, satisfaction de l'avoir fait par lui même!
-- **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, le personnels et plus... Renforcement de la cohésion des équipes pédagogiques.
-- **Economique** : Réduction des frais de maintenance sur les systèmes didactisé des laboratoires SII (post-bac et pré-bac) et STS.
+- **Social** : Création d'un espace de partage et d'entraide au sein du lycée entre les enseignants, les personnels et les élèves. Renforcement de la cohésion des équipes pédagogiques.
+- **Economique** : Réduction des frais de maintenance sur les systèmes didactisés des laboratoires SII (post-bac et pré-bac) et STS.
 
 ## 7. Conclusion
-- **Importance du projet** : Contribuer à une société plus durable et responsable. Réaliser des économies d'échelles considérable !
+- **Importance du projet** : Contribuer à une société plus durable et responsable. Réaliser des économies d'échelles considérables !
 - **Appel à soutien** : Demande de soutien financier et logistique de la part du Conseil d'Administration du Lycée.
 
 ## 8. Equipe
@@ -41,7 +41,7 @@
 ## 9. Annexes
 - **Témoignages** : Avis d'élèves et d'enseignants du Lycée Rascol.
 - **Photos** : Images de l'atelier en fonctionnement.
-- **Articles de presse** : Mentions du Repair Lab dans les médias locaux, Sud Ouest, TV7, 
+- **Articles de presse** : Mentions du Repair Lab dans les médias locaux, Sud Ouest, TV7...
 - **Objectifs du développement durable** :
 - ODD4 - [https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd4-veiller-a-ce-que-tous-puissent-suivre-une-education-de-qualite-dans-des)
 - ODD12 -[https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/article/odd12-etablir-des-modes-de-consommation-et-de-production-durables)
